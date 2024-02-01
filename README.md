@@ -1,10 +1,29 @@
-FRONTEND - MAIN PAGE IS "index.jsp" where all tasks are shown whereas thereis another page named as "completedTask.jsp"  both are in the directory "src/main/webapp/WEB-INF/views"
-BACKEND  - All the Files are in path "src/main/java" . 
+Project Overview:
 
-ALL THE Screenshots of the Project are in ScreenShots Folder.
+Frontend:
 
- PS 😊: This is my 2nd Spring Application but tried all the concepts i learned as a MERN developer. ranting due to config. setup😒
-        WILL DEVELOP PROD. LEVEL applications soon. 
-        learning continues...
+Main page: "index.jsp" displays all tasks.
+Additional page: "completedTask.jsp" for completed tasks.
+Both pages in "src/main/webapp/WEB-INF/views."
+
+Backend:
+All files in "src/main/java." with proper naming conventions.
+
+Screenshots:
+Organized in the "ScreenShots" folder.
+Development:
+
+MERN developer transitioning to Spring.
+Overcame setup challenges, applying learned concepts.
+Future Plans:
+
+Aspiring to develop production-level applications.
+Embracing continuous learning and growth.
+Closing Note:
+
+Marking the second Spring application, a testament to perseverance and growth.
+
+PS 😊:
+Acknowledging LEARNING with a positive outlook.
 
 
